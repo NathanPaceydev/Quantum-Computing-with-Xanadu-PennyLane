@@ -1,4 +1,4 @@
-# Xanadu-Codebooks
+# Quantum Computing with Xanadu's PennyLane
 My solutions to the Quantum Computing Codebooks produced by Xanadu using the python library PennyLane.
 
 **Xanadu Codebook Solutions.ipynb** contains the questions and solutions to the introduction modules T, I and A.
