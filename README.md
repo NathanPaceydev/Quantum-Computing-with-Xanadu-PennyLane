@@ -1,5 +1,5 @@
 # Quantum Computing with Xanadu's PennyLane
-My solutions to the Quantum Computing Codebooks produced by Xanadu using the python library PennyLane. **This code and information in this repository is for educational purposes only**.
+My solutions to the Quantum Computing Codebooks produced by Xanadu using the python library PennyLane. **The code and information in this repository is for educational purposes only**.
 
 **Xanadu Codebook Solutions.ipynb** contains the questions and solutions to the introduction modules T, I and A.
 Grover's Algoorithm Xanadu codebook.ipynb contains the questions and solutions to the Grover's Module
